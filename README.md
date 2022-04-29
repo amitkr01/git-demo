@@ -1,2 +1,2 @@
 # git-demo
-This is for first demo
+This is for first project
